@@ -16,15 +16,15 @@ Glad to see you here! I am Richa, a data enthusiast. I craft insights from raw d
 ## 📊 Top Projects
 - **Retail Analytics Project**  
   Queried 150K+ retail transactions using SQL joins and window functions for sales analysis. Segmented 10K+ customers, identifying top 15% high-frequency buyers, projecting a 10% boost in marketing campaign effectiveness.  
-  🔗 [github.com/yourusername/retail-analytics] | Tools: SQL
+  🔗 [Link](https://github.com/Richa991/Retail_Analysis_SQL) | Tools: SQL
 
 - **Billing Forecasting and Savings Estimation**  
   Analyzed 2+ years of billing data with time series analysis in Excel, achieving 91% forecast accuracy and identifying $50K/month savings potential.  
-  🔗 [github.com/yourusername/billing-forecasting] | Tools: Advanced Excel
+  Tools: Advanced Excel
 
 - **CPI Inflation Analysis**  
   Analyzed CPI data (2013-2023) across 27 categories, highlighting 20%+ inflation spikes in food/fuel during COVID-19 using Excel pivot tables.  
-  🔗 [github.com/yourusername/cpi-inflation] | Tools: Advanced Excel
+  🔗 [Link](https://github.com/Richa991/India_CPI_Inflation_Excel) | Tools: Advanced Excel
 
 👉 Check my repos for more data wizardry!
 
