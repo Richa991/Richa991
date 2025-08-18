@@ -1,4 +1,4 @@
-                                                        ## Hi there 👋
+                                                        ##Hi there 👋
 
 Glad to see you here! I am Richa, a data enthusiast. I craft insights from raw data using **SQL**, **Power BI**, and **Excel**, turning numbers into stories that drive decisions. Dynamic analyst with experience in fast-paced environments, tracking KPIs, analyzing trends, and building actionable reports. Currently chasing the **PL-300** certification and building standout projects to boost my portfolio.
 
