@@ -1,4 +1,4 @@
-## Hi there 👋
+                                                        ## Hi there 👋
 
 Glad to see you here! I am Richa, a data enthusiast. I craft insights from raw data using **SQL**, **Power BI**, and **Excel**, turning numbers into stories that drive decisions. Dynamic analyst with experience in fast-paced environments, tracking KPIs, analyzing trends, and building actionable reports. Currently chasing the **PL-300** certification and building standout projects to boost my portfolio.
 
@@ -56,8 +56,7 @@ Developed expertise in advanced SQL techniques for data analysis.
 
 ## 📬 Connect
 - Email: Richasalaria41@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/richasalaria991/]  # Update with actual LinkedIn URL
-
+- LinkedIn: [linkedin.com/in/richasalaria](https://www.linkedin.com/in/richasalaria991/)
 ---
 
 💡 **Working On**: Nailing PL-300 and crafting more data projects. Peek into my future? I’m curious about **Python** and **AI** to elevate my skills.  
