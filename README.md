@@ -29,24 +29,19 @@ Glad to see you here! I am Richa, a data enthusiast. I craft insights from raw d
 👉 Check my repos for more data wizardry!
 
 ## 🎓 Certifications
-### MySQL Database Management
-[Certificate](https://drive.google.com/file/d/1HkYmaxoXTSDlvhbIVbO12E5sG_an6ue1/view?usp=sharing)  
+### ![Static Badge](https://img.shields.io/badge/MySQL-DatabaseAdministration-8B2BE2) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1HkYmaxoXTSDlvhbIVbO12E5sG_an6ue1/view?usp=sharing)  
 Completed training in MySQL database administration and management.
 
-### MySQL Analysis
-[Certificate](https://drive.google.com/file/d/1Rn2cKiRNacv_XC_v3ehUz4CJwGS34vQm/view?usp=sharing)  
+### ![Static Badge](https://img.shields.io/badge/MySQL-Analysis-blue) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1Rn2cKiRNacv_XC_v3ehUz4CJwGS34vQm/view?usp=sharing)  
 Mastered data analysis techniques using MySQL queries.
 
-### Power BI Desktop by Maven Analytics
-[Certificate](https://drive.google.com/file/d/1N5egsuyka8eggmAhWQuyvhpYDhAd-N4S/view?usp=sharing)  
+### ![Static Badge](https://img.shields.io/badge/PowerBI_Desktop-yellow) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1N5egsuyka8eggmAhWQuyvhpYDhAd-N4S/view?usp=sharing)  
 Learned to create interactive dashboards and visualizations in Power BI.
 
-### Introduction to Analytics & Excel from Coding Ninjas
-[Certificate](https://drive.google.com/file/d/13XY2yLL8hlZIYuynbum2orPjrEXuwyMX/view?usp=drive_linkm)  
+### ![Static Badge](https://img.shields.io/badge/Introduction%20_to%20_Analytics_%26_Excel-darkgreen) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/13XY2yLL8hlZIYuynbum2orPjrEXuwyMX/view?usp=drive_linkm)  
 Gained foundational skills in data analytics and advanced skills in Excel.
 
-### Advanced SQL for Data Analysis from Coding Ninjas
-[Certificate](https://drive.google.com/file/d/1-wesdGBhn-VoYNX2Ac3yCVtLChK8aHbx/view?usp=drive_link)  
+### ![Static Badge](https://img.shields.io/badge/Advanced_SQL_for_Data_Analysis-pink) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/1-wesdGBhn-VoYNX2Ac3yCVtLChK8aHbx/view?usp=drive_link)  
 Developed expertise in advanced SQL techniques for data analysis.
 
 - **In Progress**: Working toward Microsoft Power BI Data Analyst (PL-300)
