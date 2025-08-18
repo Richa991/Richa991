@@ -41,7 +41,7 @@ Learned to create interactive dashboards and visualizations in Power BI.
 ### ![Static Badge](https://img.shields.io/badge/Introduction%20_to%20_Analytics_%26_Excel-darkgreen) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/13XY2yLL8hlZIYuynbum2orPjrEXuwyMX/view?usp=drive_linkm)  
 Gained foundational skills in data analytics and advanced skills in Excel.
 
-### ![Static Badge](https://img.shields.io/badge/Advanced_SQL_for_Data_Analysis-pink) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/1-wesdGBhn-VoYNX2Ac3yCVtLChK8aHbx/view?usp=drive_link)  
+### ![Static Badge](https://img.shields.io/badge/Advanced_SQL_for_Data_Analysis-blue) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/1-wesdGBhn-VoYNX2Ac3yCVtLChK8aHbx/view?usp=drive_link)  
 Developed expertise in advanced SQL techniques for data analysis.
 
 - **In Progress**: Working toward Microsoft Power BI Data Analyst (PL-300)
