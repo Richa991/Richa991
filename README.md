@@ -28,24 +28,6 @@ Glad to see you here! I am Richa, a data enthusiast. I craft insights from raw d
 
 👉 Check my repos for more data wizardry!
 
-## 🎓 Certifications
-### ![Static Badge](https://img.shields.io/badge/MySQL-DatabaseAdministration-8B2BE2) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1HkYmaxoXTSDlvhbIVbO12E5sG_an6ue1/view?usp=sharing)  
-Completed training in MySQL database administration and management.
-
-### ![Static Badge](https://img.shields.io/badge/MySQL-Analysis-blue) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1Rn2cKiRNacv_XC_v3ehUz4CJwGS34vQm/view?usp=sharing)  
-Mastered data analysis techniques using MySQL queries.
-
-### ![Static Badge](https://img.shields.io/badge/PowerBI_Desktop-yellow) ![Static Badge](https://img.shields.io/badge/Maven_Analytics-green) [Certificate](https://drive.google.com/file/d/1N5egsuyka8eggmAhWQuyvhpYDhAd-N4S/view?usp=sharing)  
-Learned to create interactive dashboards and visualizations in Power BI.
-
-### ![Static Badge](https://img.shields.io/badge/Introduction%20_to%20_Analytics_%26_Excel-darkgreen) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/13XY2yLL8hlZIYuynbum2orPjrEXuwyMX/view?usp=drive_linkm)  
-Gained foundational skills in data analytics and advanced skills in Excel.
-
-### ![Static Badge](https://img.shields.io/badge/Advanced_SQL_for_Data_Analysis-blue) ![Static Badge](https://img.shields.io/badge/Coding_Ninjas-orange) [Certificate](https://drive.google.com/file/d/1-wesdGBhn-VoYNX2Ac3yCVtLChK8aHbx/view?usp=drive_link)  
-Developed expertise in advanced SQL techniques for data analysis.
-
-- **In Progress**: Working toward Microsoft Power BI Data Analyst (PL-300)
-
 ## 🏆 Achievements
 [![LeetCode user Richa41](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRicha41&logo=leetcode&logoColor=yellow)](https://leetcode.com/Richa41/)
 
